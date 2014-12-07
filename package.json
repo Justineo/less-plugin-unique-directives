@@ -1,5 +1,5 @@
 {
-  "name": "less-plugin-unique-directive",
+  "name": "less-plugin-unique-directives",
   "version": "0.1.0",
   "description": "A Less plugin to eliminate redundant @-rules such as `@keyframes` in the output CSS.",
   "main": "lib/index.js",

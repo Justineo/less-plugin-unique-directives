@@ -6,8 +6,8 @@ A Less plugin to eliminate redundant @-rules such as duplicate `@keyframes` in C
 ## Usage
 
 ```bash
-$ npm install -g less-plugin-unique-directives
-$ lessc styles.less --unique-directives
+~ npm install -g less-plugin-unique-directives
+~ lessc styles.less --unique-directives
 ```
 
 *Only work on `@keyframes` for now.*

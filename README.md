@@ -1,7 +1,7 @@
 less-plugin-unique-directive
 ============================
 
-A Less plugin to eliminate redundant @-rules such as `@keyframes` in the output CSS.
+A Less plugin to eliminate redundant @-rules such as duplicate `@keyframes` in CSS output.
 
 ## Usage
 
